@@ -1,7 +1,3 @@
-Aqui está uma sugestão de um arquivo `README.md` completo, organizado e pronto para colocar no seu repositório do GitHub. Ele destaca exatamente a lógica de expansão que você pediu, além de dar aquele visual profissional para o projeto da dupla.
-
----
-
 # 🛗 Simulador de Elevador de 6 Andares (Arduino + Tinkercad)
 
 Este projeto consiste na simulação de um sistema de controle para um elevador de 6 andares utilizando a plataforma Arduino. O circuito e o código foram desenvolvidos e testados utilizando o ambiente virtual do **Tinkercad**.
