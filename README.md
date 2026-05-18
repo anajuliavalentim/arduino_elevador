@@ -58,4 +58,4 @@ A estrutura base do controle segue o fluxo abaixo:
 3. **Movimento:** O elevador desliga a posição anterior, percorre os andares intermediários com um atraso de tempo (`delay(3000)`) simulando o deslocamento físico, e atualiza a variável `atual`.
 4. **Estabilização:** O LED do andar de destino permanece aceso até uma nova chamada.
 
-
+Autores: Danielli Maritns e Ana Julia Valentim 🤗🙄
